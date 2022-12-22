@@ -1,0 +1,966 @@
+2022-12-22T17:37:29.377712+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T17:41:22.812428+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T17:41:24.442269+0300, INFO, Администратор SergeiBaluev76, зашёл в выгрузку логов
+2022-12-22T17:41:34.793791+0300, INFO, Администратор SergeiBaluev76, выгрузил файл DEBUG логов
+2022-12-22T17:42:10.075388+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T17:42:12.625150+0300, INFO, Администратор SergeiBaluev76, зашёл в выгрузку логов
+2022-12-22T17:42:16.284953+0300, INFO, Администратор SergeiBaluev76, выгрузил файл DEBUG логов
+2022-12-22T17:43:09.860240+0300, INFO, Администратор SergeiBaluev76, нажал кнопку для изминения баланса
+2022-12-22T17:43:21.242791+0300, INFO, Администратор SergeiBaluev76, ОТМЕНИЛ изминения баланса пользователя 
+2022-12-22T17:43:27.099279+0300, INFO, Администратор SergeiBaluev76, зашёл в выгрузку логов
+2022-12-22T17:43:33.405716+0300, INFO, Администратор SergeiBaluev76, нажал кнопку для изминения баланса
+2022-12-22T17:43:37.474219+0300, INFO, Администратор SergeiBaluev76, ОТМЕНИЛ изминения баланса пользователя 
+2022-12-22T17:43:39.814044+0300, INFO, Администратор SergeiBaluev76, нажал кнопку ЗАБЛОКИРОВАТЬ ИЛИ РАЗБЛОКИРОВАТЬ пользователя
+2022-12-22T17:43:45.280276+0300, INFO, Администратор SergeiBaluev76, вышел из меню блокировки
+2022-12-22T17:51:27.898189+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T17:51:29.895511+0300, INFO, Администратор SergeiBaluev76, зашёл в выгрузку логов
+2022-12-22T17:51:31.393476+0300, INFO, Администратор SergeiBaluev76, выгрузил файл DEBUG логов
+2022-12-22T18:03:07.276996+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:03:08.768194+0300, INFO, Администратор SergeiBaluev76, зашёл в выгрузку логов
+2022-12-22T18:03:10.092631+0300, INFO, Администратор SergeiBaluev76, выгрузил файл DEBUG логов
+2022-12-22T18:08:55.165804+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:08:56.750453+0300, INFO, Администратор SergeiBaluev76 Нажал кнопку ПРОВЕРИТЬ БАЛАНС ПОЛЬЗОВАТЕЛЕЙ
+2022-12-22T18:09:01.041544+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:09:02.999121+0300, INFO, Администратор SergeiBaluev76, нажал кнопку для изминения баланса
+2022-12-22T18:09:07.634121+0300, INFO, Администратор SergeiBaluev76, ввёл ник пользователя qwe 
+2022-12-22T18:09:14.437906+0300, INFO, Администратор SergeiBaluev76, изменил у пользователя qwe
+Сумма: 2000 руб. 
+2022-12-22T18:09:19.953166+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:09:21.027755+0300, INFO, Администратор SergeiBaluev76, нажал кнопку для изминения баланса
+2022-12-22T18:09:25.169549+0300, INFO, Администратор SergeiBaluev76, ОТМЕНИЛ изминения баланса пользователя 
+2022-12-22T18:09:28.027618+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:09:29.717416+0300, INFO, Администратор SergeiBaluev76 Нажал кнопку ПРОВЕРИТЬ БАЛАНС ПОЛЬЗОВАТЕЛЕЙ
+2022-12-22T18:09:37.373170+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:09:40.680434+0300, INFO, Администратор SergeiBaluev76, нажал кнопку ЗАБЛОКИРОВАТЬ ИЛИ РАЗБЛОКИРОВАТЬ пользователя
+2022-12-22T18:09:47.778369+0300, INFO, Администратор SergeiBaluev76, ЗАБЛОКИРОВАННЫЙ asd НАЙДЕН
+2022-12-22T18:09:52.464404+0300, INFO, Администратор SergeiBaluev76, РАЗБЛОКИРОВАЛ пользователя asd
+2022-12-22T18:09:59.104668+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:10:00.410481+0300, INFO, Администратор SergeiBaluev76, зашёл в выгрузку логов
+2022-12-22T18:10:04.754354+0300, INFO, Администратор SergeiBaluev76, выгрузил файл WARNING логов
+2022-12-22T18:11:37.391436+0300, INFO, Администратор SergeiBaluev76, выгрузил файл DEBUG логов
+2022-12-22T18:11:39.226542+0300, INFO, Администратор SergeiBaluev76, выгрузил файл WARNING логов
+2022-12-22T18:12:02.276858+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:12:15.627414+0300, INFO, Администратор SergeiBaluev76, нажал кнопку ЗАБЛОКИРОВАТЬ ИЛИ РАЗБЛОКИРОВАТЬ пользователя
+2022-12-22T18:12:28.982854+0300, INFO, Администратор SergeiBaluev76, ЗАБЛОКИРОВАННЫЙ qwe НАЙДЕН
+2022-12-22T18:12:31.226188+0300, INFO, Администратор SergeiBaluev76, РАЗБЛОКИРОВАЛ пользователя asd
+2022-12-22T18:12:34.301852+0300, INFO, Администратор SergeiBaluev76, РАЗБЛОКИРОВАЛ пользователя asd
+2022-12-22T18:12:40.693732+0300, INFO, Администратор SergeiBaluev76, РАЗБЛОКИРОВАЛ пользователя asd
+2022-12-22T18:13:35.321723+0300, INFO, Администратор SergeiBaluev76, РАЗБЛОКИРОВАЛ пользователя asd
+2022-12-22T18:13:49.552331+0300, INFO, Администратор SergeiBaluev76, РАЗБЛОКИРОВАЛ пользователя asd
+2022-12-22T18:20:24.067262+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:20:48.224679+0300, INFO, Администратор SergeiBaluev76 Нажал кнопку ПРОВЕРИТЬ БАЛАНС ПОЛЬЗОВАТЕЛЕЙ
+2022-12-22T18:20:57.438376+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:20:59.786085+0300, INFO, Администратор SergeiBaluev76, зашёл в выгрузку логов
+2022-12-22T18:21:09.062296+0300, INFO, Администратор SergeiBaluev76, выгрузил файл WARNING логов
+2022-12-22T18:21:10.829084+0300, INFO, Администратор SergeiBaluev76, выгрузил файл DEBUG логов
+2022-12-22T18:29:51.689125+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:31:22.533636+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:38:03.379320+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:40:55.446643+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:43:17.858710+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:47:39.604018+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:49:39.743215+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:56:48.283296+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:56:52.249404+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T18:58:53.348036+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T19:03:55.112195+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T19:06:13.167148+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T19:06:18.137463+0300, ERROR, An error has been caught in function 'notify', process 'MainProcess' (8748), thread 'MainThread' (3020):
+Traceback (most recent call last):
+
+  File "D:\mySite\aiogramQiwi\main.py", line 17, in <module>
+    executor.start_polling(dp, skip_updates=True, )
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x00000263B62AD280>
+    │        └ <function start_polling at 0x00000263B60B5820>
+    └ <module 'aiogram.utils.executor' from 'C:\\Users\\User\\.virtualenvs\\aiogramQiwi-17PvAhBo\\lib\\site-packages\\aiogram\\util...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x00000263B60BE280>
+    └ <aiogram.utils.executor.Executor object at 0x00000263B6860280>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x00000263B44BF550>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+
+  File "c:\python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x00000263B4402310>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x00000263B4392F70>
+    └ <Handle <TaskStepMethWrapper object at 0x00000263B68B1220>()>
+
+  File "c:\python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x00000263B68B1220>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x00000263B68B1220>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x00000263B68B1220>()>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 838184063, "message": {"message_id": 3572, "from": {"id": 1143605849, "is_bot": false, "first_name": "...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x00000263B62AD280>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x00000263B530E9D0>
+                 │    │                │      └ <Update {"update_id": 838184063, "message": {"message_id": 3572, "from": {"id": 1143605849, "is_bot": false, "first_name": "S...
+                 │    │                └ <function Handler.notify at 0x00000263B6003E50>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x00000263B62D80D0>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x00000263B62AD280>
+
+> File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Message {"message_id": 3572, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "us...
+                     │           └ <function send_sticker_id at 0x00000263B6842DC0>
+                     └ Handler.HandlerObj(handler=<function send_sticker_id at 0x00000263B6842DC0>, spec=FullArgSpec(args=['message'], varargs=None,...
+
+  File "D:\mySite\aiogramQiwi\handlers\client.py", line 23, in send_sticker_id
+    if not db.user_exists(message.from_user.id, message.from_user.username):
+           │  │           │       │             │       └ <aiogram.types.fields.Field object at 0x00000263B5229790>
+           │  │           │       │             └ <Message {"message_id": 3572, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  │           │       └ <aiogram.types.fields.Field object at 0x00000263B5229790>
+           │  │           └ <Message {"message_id": 3572, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  └ <function DataBase.user_exists at 0x00000263B62C0EE0>
+           └ <db.DataBase object at 0x00000263B68447C0>
+
+  File "D:\mySite\aiogramQiwi\db.py", line 30, in user_exists
+    result = self.cursor.execute("SELECT * FROM users WHERE iser_id = ? AND user_name = ?", (user_id, user_name)).fetchall()
+             │    │      │                                                                   │        └ 'SergeiBaluev76'
+             │    │      │                                                                   └ 1143605849
+             │    │      └ <method 'execute' of 'sqlite3.Cursor' objects>
+             │    └ <sqlite3.Cursor object at 0x00000263B68341F0>
+             └ <db.DataBase object at 0x00000263B68447C0>
+
+sqlite3.OperationalError: no such column: iser_id
+2022-12-22T19:09:18.737607+0300, DEBUG, SergeiBaluev76, ввёл команду /start
+2022-12-22T19:10:57.322670+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T19:12:08.269975+0300, DEBUG, SergeiBaluev76, ввёл команду /start
+2022-12-22T19:14:49.961988+0300, DEBUG, SergeiBaluev76, ввёл команду /start
+2022-12-22T19:17:18.993826+0300, ERROR, An error has been caught in function 'notify', process 'MainProcess' (7288), thread 'MainThread' (9780):
+Traceback (most recent call last):
+
+  File "D:\mySite\aiogramQiwi\main.py", line 17, in <module>
+    executor.start_polling(dp, skip_updates=True, )
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0000022E0DABDF10>
+    │        └ <function start_polling at 0x0000022E0D8B6820>
+    └ <module 'aiogram.utils.executor' from 'C:\\Users\\User\\.virtualenvs\\aiogramQiwi-17PvAhBo\\lib\\site-packages\\aiogram\\util...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x0000022E0D8BF280>
+    └ <aiogram.utils.executor.Executor object at 0x0000022E0E070190>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x0000022E0BCCF550>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+
+  File "c:\python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x0000022E0BC12310>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x0000022E0BBA2F70>
+    └ <Handle <TaskStepMethWrapper object at 0x0000022E0E092880>()>
+
+  File "c:\python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x0000022E0E092880>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x0000022E0E092880>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x0000022E0E092880>()>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 838184072, "message": {"message_id": 3585, "from": {"id": 1143605849, "is_bot": false, "first_name": "...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0000022E0DABDF10>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x0000022E0CB1E910>
+                 │    │                │      └ <Update {"update_id": 838184072, "message": {"message_id": 3585, "from": {"id": 1143605849, "is_bot": false, "first_name": "S...
+                 │    │                └ <function Handler.notify at 0x0000022E0D802E50>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x0000022E0DAD90A0>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0000022E0DABDF10>
+
+> File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Message {"message_id": 3585, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "us...
+                     │           └ <function send_sticker_id at 0x0000022E0E052D30>
+                     └ Handler.HandlerObj(handler=<function send_sticker_id at 0x0000022E0E052D30>, spec=FullArgSpec(args=['message'], varargs=None,...
+
+  File "D:\mySite\aiogramQiwi\handlers\client.py", line 23, in send_sticker_id
+    if not db.user_exists(message.from_user.id, message.from_user.username):
+           │              │       │             │       └ <aiogram.types.fields.Field object at 0x0000022E0CA3A6D0>
+           │              │       │             └ <Message {"message_id": 3585, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │              │       └ <aiogram.types.fields.Field object at 0x0000022E0CA3A6D0>
+           │              └ <Message {"message_id": 3585, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           └ <db.DataBase object at 0x0000022E0E0546D0>
+
+AttributeError: 'DataBase' object has no attribute 'user_exists'
+2022-12-22T19:25:03.987625+0300, ERROR, An error has been caught in function 'notify', process 'MainProcess' (11172), thread 'MainThread' (3564):
+Traceback (most recent call last):
+
+  File "D:\mySite\aiogramQiwi\main.py", line 17, in <module>
+    executor.start_polling(dp, skip_updates=True, )
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0000016BE531C6A0>
+    │        └ <function start_polling at 0x0000016BE5105820>
+    └ <module 'aiogram.utils.executor' from 'C:\\Users\\User\\.virtualenvs\\aiogramQiwi-17PvAhBo\\lib\\site-packages\\aiogram\\util...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x0000016BE510E280>
+    └ <aiogram.utils.executor.Executor object at 0x0000016BE58D0220>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x0000016BE352F550>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+
+  File "c:\python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x0000016BE3472310>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x0000016BE3412F70>
+    └ <Handle <TaskStepMethWrapper object at 0x0000016BE58F2910>()>
+
+  File "c:\python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x0000016BE58F2910>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x0000016BE58F2910>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x0000016BE58F2910>()>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 838184073, "message": {"message_id": 3586, "from": {"id": 1143605849, "is_bot": false, "first_name": "...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0000016BE531C6A0>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x0000016BE437E970>
+                 │    │                │      └ <Update {"update_id": 838184073, "message": {"message_id": 3586, "from": {"id": 1143605849, "is_bot": false, "first_name": "S...
+                 │    │                └ <function Handler.notify at 0x0000016BE5052E50>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x0000016BE53380A0>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0000016BE531C6A0>
+
+> File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Message {"message_id": 3586, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "us...
+                     │           └ <function send_sticker_id at 0x0000016BE58B2DC0>
+                     └ Handler.HandlerObj(handler=<function send_sticker_id at 0x0000016BE58B2DC0>, spec=FullArgSpec(args=['message'], varargs=None,...
+
+  File "D:\mySite\aiogramQiwi\handlers\client.py", line 23, in send_sticker_id
+    if not db.user_exists(message.from_user.id, message.from_user.username):
+           │  │           │       │             │       └ <aiogram.types.fields.Field object at 0x0000016BE4299730>
+           │  │           │       │             └ <Message {"message_id": 3586, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  │           │       └ <aiogram.types.fields.Field object at 0x0000016BE4299730>
+           │  │           └ <Message {"message_id": 3586, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  └ <function DataBase.user_exists at 0x0000016BE531FEE0>
+           └ <db.DataBase object at 0x0000016BE58B4760>
+
+  File "D:\mySite\aiogramQiwi\db.py", line 32, in user_exists
+    return bool(int(result[0][0]))
+                    └ <sqlite3.Cursor object at 0x0000016BE58A5180>
+
+TypeError: 'sqlite3.Cursor' object is not subscriptable
+2022-12-22T19:27:46.409760+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T19:27:56.332314+0300, INFO, Администратор SergeiBaluev76 Нажал кнопку ПРОВЕРИТЬ БАЛАНС ПОЛЬЗОВАТЕЛЕЙ
+2022-12-22T19:29:19.318349+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T19:29:34.740561+0300, INFO, Администратор SergeiBaluev76 Нажал кнопку ПРОВЕРИТЬ БАЛАНС ПОЛЬЗОВАТЕЛЕЙ
+2022-12-22T19:29:56.194293+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T19:29:57.984355+0300, INFO, Администратор SergeiBaluev76, зашёл в выгрузку логов
+2022-12-22T19:30:03.304979+0300, INFO, Администратор SergeiBaluev76, выгрузил файл WARNING логов
+2022-12-22T19:30:21.043140+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T19:31:11.381062+0300, INFO, Администратор SergeiBaluev76, нажал кнопку ЗАБЛОКИРОВАТЬ ИЛИ РАЗБЛОКИРОВАТЬ пользователя
+2022-12-22T19:31:37.573798+0300, INFO, Администратор SergeiBaluev76, ПОЛЬЗОВАТЕЛЬ НАЙДЕНSergeiBaluev76 НАЙДЕН
+2022-12-22T19:31:39.806899+0300, INFO, Администратор SergeiBaluev76, ЗАБЛОКИРОВАЛ пользователя SergeiBaluev76
+2022-12-22T19:31:48.493656+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T19:31:54.190650+0300, INFO, Администратор SergeiBaluev76, нажал кнопку ЗАБЛОКИРОВАТЬ ИЛИ РАЗБЛОКИРОВАТЬ пользователя
+2022-12-22T19:32:05.461427+0300, INFO, Администратор SergeiBaluev76, ЗАБЛОКИРОВАННЫЙ SergeiBaluev76 НАЙДЕН
+2022-12-22T19:32:08.037859+0300, INFO, Администратор SergeiBaluev76, РАЗБЛОКИРОВАЛ пользователя SergeiBaluev76
+2022-12-22T19:34:57.577711+0300, ERROR, An error has been caught in function 'notify', process 'MainProcess' (9448), thread 'MainThread' (4660):
+Traceback (most recent call last):
+
+  File "D:\mySite\aiogramQiwi\main.py", line 17, in <module>
+    executor.start_polling(dp, skip_updates=True, )
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0000024CB1F7DF10>
+    │        └ <function start_polling at 0x0000024CB1D76820>
+    └ <module 'aiogram.utils.executor' from 'C:\\Users\\User\\.virtualenvs\\aiogramQiwi-17PvAhBo\\lib\\site-packages\\aiogram\\util...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x0000024CB1D7F280>
+    └ <aiogram.utils.executor.Executor object at 0x0000024CB25201C0>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x0000024CB017F550>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+
+  File "c:\python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x0000024CB00C2310>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x0000024CB0052F70>
+    └ <Handle <TaskStepMethWrapper object at 0x0000024CB25428B0>()>
+
+  File "c:\python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x0000024CB25428B0>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x0000024CB25428B0>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x0000024CB25428B0>()>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 838184093, "message": {"message_id": 3615, "from": {"id": 1143605849, "is_bot": false, "first_name": "...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0000024CB1F7DF10>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x0000024CB0FCE910>
+                 │    │                │      └ <Update {"update_id": 838184093, "message": {"message_id": 3615, "from": {"id": 1143605849, "is_bot": false, "first_name": "S...
+                 │    │                └ <function Handler.notify at 0x0000024CB1CC2E50>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x0000024CB1F990A0>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0000024CB1F7DF10>
+
+> File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Message {"message_id": 3615, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "us...
+                     │           └ <function send_sticker_id at 0x0000024CB2502DC0>
+                     └ Handler.HandlerObj(handler=<function send_sticker_id at 0x0000024CB2502DC0>, spec=FullArgSpec(args=['message'], varargs=None,...
+
+  File "D:\mySite\aiogramQiwi\handlers\client.py", line 23, in send_sticker_id
+    if not db.user_exists(message.from_user.id, message.from_user.username):
+           │  │           │       │             │       └ <aiogram.types.fields.Field object at 0x0000024CB0EE96D0>
+           │  │           │       │             └ <Message {"message_id": 3615, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  │           │       └ <aiogram.types.fields.Field object at 0x0000024CB0EE96D0>
+           │  │           └ <Message {"message_id": 3615, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  └ <function DataBase.user_exists at 0x0000024CB1F80EE0>
+           └ <db.DataBase object at 0x0000024CB2504700>
+
+  File "D:\mySite\aiogramQiwi\db.py", line 32, in user_exists
+    bool(len(result))
+             └ <sqlite3.Cursor object at 0x0000024CB24F51F0>
+
+TypeError: object of type 'sqlite3.Cursor' has no len()
+2022-12-22T19:35:22.880185+0300, ERROR, An error has been caught in function 'notify', process 'MainProcess' (9284), thread 'MainThread' (4324):
+Traceback (most recent call last):
+
+  File "D:\mySite\aiogramQiwi\main.py", line 17, in <module>
+    executor.start_polling(dp, skip_updates=True, )
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000001C6CC509F70>
+    │        └ <function start_polling at 0x000001C6CC2E5820>
+    └ <module 'aiogram.utils.executor' from 'C:\\Users\\User\\.virtualenvs\\aiogramQiwi-17PvAhBo\\lib\\site-packages\\aiogram\\util...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x000001C6CC2EF280>
+    └ <aiogram.utils.executor.Executor object at 0x000001C6CCAA02B0>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x000001C6CA6FF550>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+
+  File "c:\python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x000001C6CA642310>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x000001C6CA5D2F70>
+    └ <Handle <TaskStepMethWrapper object at 0x000001C6CCAC29A0>()>
+
+  File "c:\python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x000001C6CCAC29A0>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x000001C6CCAC29A0>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x000001C6CCAC29A0>()>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 838184094, "message": {"message_id": 3616, "from": {"id": 1143605849, "is_bot": false, "first_name": "...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000001C6CC509F70>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x000001C6CB54EA00>
+                 │    │                │      └ <Update {"update_id": 838184094, "message": {"message_id": 3616, "from": {"id": 1143605849, "is_bot": false, "first_name": "S...
+                 │    │                └ <function Handler.notify at 0x000001C6CC233E50>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x000001C6CC509220>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000001C6CC509F70>
+
+> File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Message {"message_id": 3616, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "us...
+                     │           └ <function send_sticker_id at 0x000001C6CCA82DC0>
+                     └ Handler.HandlerObj(handler=<function send_sticker_id at 0x000001C6CCA82DC0>, spec=FullArgSpec(args=['message'], varargs=None,...
+
+  File "D:\mySite\aiogramQiwi\handlers\client.py", line 23, in send_sticker_id
+    if not db.user_exists(message.from_user.id, message.from_user.username):
+           │  │           │       │             │       └ <aiogram.types.fields.Field object at 0x000001C6CB4687C0>
+           │  │           │       │             └ <Message {"message_id": 3616, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  │           │       └ <aiogram.types.fields.Field object at 0x000001C6CB4687C0>
+           │  │           └ <Message {"message_id": 3616, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  └ <function DataBase.user_exists at 0x000001C6CC4F1EE0>
+           └ <db.DataBase object at 0x000001C6CCA847F0>
+
+  File "D:\mySite\aiogramQiwi\db.py", line 32, in user_exists
+    bool(len(result[0]))
+             └ <sqlite3.Cursor object at 0x000001C6CCA741F0>
+
+TypeError: 'sqlite3.Cursor' object is not subscriptable
+2022-12-22T19:35:50.742970+0300, ERROR, An error has been caught in function 'notify', process 'MainProcess' (5992), thread 'MainThread' (5764):
+Traceback (most recent call last):
+
+  File "D:\mySite\aiogramQiwi\main.py", line 17, in <module>
+    executor.start_polling(dp, skip_updates=True, )
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000002652F2FEA00>
+    │        └ <function start_polling at 0x000002652F106820>
+    └ <module 'aiogram.utils.executor' from 'C:\\Users\\User\\.virtualenvs\\aiogramQiwi-17PvAhBo\\lib\\site-packages\\aiogram\\util...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x000002652F10E280>
+    └ <aiogram.utils.executor.Executor object at 0x000002652F8C0250>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x000002652D51F550>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+
+  File "c:\python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x000002652D462310>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x000002652D3F2F70>
+    └ <Handle <TaskStepMethWrapper object at 0x000002652F8E2940>()>
+
+  File "c:\python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x000002652F8E2940>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x000002652F8E2940>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x000002652F8E2940>()>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 838184095, "message": {"message_id": 3617, "from": {"id": 1143605849, "is_bot": false, "first_name": "...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000002652F2FEA00>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x000002652E36E9A0>
+                 │    │                │      └ <Update {"update_id": 838184095, "message": {"message_id": 3617, "from": {"id": 1143605849, "is_bot": false, "first_name": "S...
+                 │    │                └ <function Handler.notify at 0x000002652F053E50>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x000002652F329100>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000002652F2FEA00>
+
+> File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Message {"message_id": 3617, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "us...
+                     │           └ <function send_sticker_id at 0x000002652F8A2DC0>
+                     └ Handler.HandlerObj(handler=<function send_sticker_id at 0x000002652F8A2DC0>, spec=FullArgSpec(args=['message'], varargs=None,...
+
+  File "D:\mySite\aiogramQiwi\handlers\client.py", line 23, in send_sticker_id
+    if not db.user_exists(message.from_user.id, message.from_user.username):
+           │  │           │       │             │       └ <aiogram.types.fields.Field object at 0x000002652E289760>
+           │  │           │       │             └ <Message {"message_id": 3617, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  │           │       └ <aiogram.types.fields.Field object at 0x000002652E289760>
+           │  │           └ <Message {"message_id": 3617, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  └ <function DataBase.user_exists at 0x000002652F310EE0>
+           └ <db.DataBase object at 0x000002652F8A3790>
+
+  File "D:\mySite\aiogramQiwi\db.py", line 32, in user_exists
+    bool(len(result[0][0]))
+             └ <sqlite3.Cursor object at 0x000002652F894180>
+
+TypeError: 'sqlite3.Cursor' object is not subscriptable
+2022-12-22T19:36:25.130957+0300, ERROR, An error has been caught in function 'notify', process 'MainProcess' (10564), thread 'MainThread' (6480):
+Traceback (most recent call last):
+
+  File "D:\mySite\aiogramQiwi\main.py", line 17, in <module>
+    executor.start_polling(dp, skip_updates=True, )
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000001BC12EADF10>
+    │        └ <function start_polling at 0x000001BC12CA6820>
+    └ <module 'aiogram.utils.executor' from 'C:\\Users\\User\\.virtualenvs\\aiogramQiwi-17PvAhBo\\lib\\site-packages\\aiogram\\util...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x000001BC12CAE280>
+    └ <aiogram.utils.executor.Executor object at 0x000001BC134601C0>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x000001BC110BF550>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+
+  File "c:\python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x000001BC11002310>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x000001BC10F92F70>
+    └ <Handle <TaskStepMethWrapper object at 0x000001BC134826A0>()>
+
+  File "c:\python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x000001BC134826A0>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x000001BC134826A0>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x000001BC134826A0>()>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 838184096, "message": {"message_id": 3618, "from": {"id": 1143605849, "is_bot": false, "first_name": "...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000001BC12EADF10>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x000001BC11F0E910>
+                 │    │                │      └ <Update {"update_id": 838184096, "message": {"message_id": 3618, "from": {"id": 1143605849, "is_bot": false, "first_name": "S...
+                 │    │                └ <function Handler.notify at 0x000001BC12BF3E50>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x000001BC12EC90A0>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000001BC12EADF10>
+
+> File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Message {"message_id": 3618, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "us...
+                     │           └ <function send_sticker_id at 0x000001BC13442DC0>
+                     └ Handler.HandlerObj(handler=<function send_sticker_id at 0x000001BC13442DC0>, spec=FullArgSpec(args=['message'], varargs=None,...
+
+  File "D:\mySite\aiogramQiwi\handlers\client.py", line 23, in send_sticker_id
+    if not db.user_exists(message.from_user.id, message.from_user.username):
+           │  │           │       │             │       └ <aiogram.types.fields.Field object at 0x000001BC11E296D0>
+           │  │           │       │             └ <Message {"message_id": 3618, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  │           │       └ <aiogram.types.fields.Field object at 0x000001BC11E296D0>
+           │  │           └ <Message {"message_id": 3618, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  └ <function DataBase.user_exists at 0x000001BC12EB0EE0>
+           └ <db.DataBase object at 0x000001BC13444700>
+
+  File "D:\mySite\aiogramQiwi\db.py", line 32, in user_exists
+    bool(result[0])
+         └ <sqlite3.Cursor object at 0x000001BC134351F0>
+
+TypeError: 'sqlite3.Cursor' object is not subscriptable
+2022-12-22T19:38:01.899400+0300, ERROR, An error has been caught in function 'notify', process 'MainProcess' (4744), thread 'MainThread' (2604):
+Traceback (most recent call last):
+
+  File "D:\mySite\aiogramQiwi\main.py", line 17, in <module>
+    executor.start_polling(dp, skip_updates=True, )
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000001F638F78040>
+    │        └ <function start_polling at 0x000001F638D45820>
+    └ <module 'aiogram.utils.executor' from 'C:\\Users\\User\\.virtualenvs\\aiogramQiwi-17PvAhBo\\lib\\site-packages\\aiogram\\util...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x000001F638D4E280>
+    └ <aiogram.utils.executor.Executor object at 0x000001F639511100>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x000001F63716F550>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+
+  File "c:\python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x000001F6370B2310>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x000001F637042F70>
+    └ <Handle <TaskStepMethWrapper object at 0x000001F6395327F0>()>
+
+  File "c:\python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x000001F6395327F0>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x000001F6395327F0>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x000001F6395327F0>()>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 838184099, "message": {"message_id": 3621, "from": {"id": 1143605849, "is_bot": false, "first_name": "...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000001F638F78040>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x000001F637FBE850>
+                 │    │                │      └ <Update {"update_id": 838184099, "message": {"message_id": 3621, "from": {"id": 1143605849, "is_bot": false, "first_name": "S...
+                 │    │                └ <function Handler.notify at 0x000001F638C93E50>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x000001F638F78190>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000001F638F78040>
+
+> File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Message {"message_id": 3621, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "us...
+                     │           └ <function send_sticker_id at 0x000001F6394F2DC0>
+                     └ Handler.HandlerObj(handler=<function send_sticker_id at 0x000001F6394F2DC0>, spec=FullArgSpec(args=['message'], varargs=None,...
+
+  File "D:\mySite\aiogramQiwi\handlers\client.py", line 23, in send_sticker_id
+    if not db.user_exists(message.from_user.id, message.from_user.username):
+           │  │           │       │             │       └ <aiogram.types.fields.Field object at 0x000001F637ED9610>
+           │  │           │       │             └ <Message {"message_id": 3621, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  │           │       └ <aiogram.types.fields.Field object at 0x000001F637ED9610>
+           │  │           └ <Message {"message_id": 3621, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  └ <function DataBase.user_exists at 0x000001F638F60EE0>
+           └ <db.DataBase object at 0x000001F6394F4640>
+
+  File "D:\mySite\aiogramQiwi\db.py", line 32, in user_exists
+    return bool(int(result[0][0]))
+                    └ <sqlite3.Cursor object at 0x000001F6394E5180>
+
+TypeError: 'sqlite3.Cursor' object is not subscriptable
+2022-12-22T19:38:45.110026+0300, ERROR, An error has been caught in function 'notify', process 'MainProcess' (4756), thread 'MainThread' (5616):
+Traceback (most recent call last):
+
+  File "D:\mySite\aiogramQiwi\main.py", line 17, in <module>
+    executor.start_polling(dp, skip_updates=True, )
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x00000130BECF8040>
+    │        └ <function start_polling at 0x00000130BEAC5820>
+    └ <module 'aiogram.utils.executor' from 'C:\\Users\\User\\.virtualenvs\\aiogramQiwi-17PvAhBo\\lib\\site-packages\\aiogram\\util...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x00000130BEACE280>
+    └ <aiogram.utils.executor.Executor object at 0x00000130BF291160>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x00000130BCEEF550>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+
+  File "c:\python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x00000130BCE32310>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x00000130BCDC2F70>
+    └ <Handle <TaskStepMethWrapper object at 0x00000130BF2B2850>()>
+
+  File "c:\python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x00000130BF2B2850>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x00000130BF2B2850>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x00000130BF2B2850>()>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 838184100, "message": {"message_id": 3622, "from": {"id": 1143605849, "is_bot": false, "first_name": "...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x00000130BECF8040>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x00000130BDD3E8B0>
+                 │    │                │      └ <Update {"update_id": 838184100, "message": {"message_id": 3622, "from": {"id": 1143605849, "is_bot": false, "first_name": "S...
+                 │    │                └ <function Handler.notify at 0x00000130BEA12E50>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x00000130BECF8190>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x00000130BECF8040>
+
+> File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Message {"message_id": 3622, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "us...
+                     │           └ <function send_sticker_id at 0x00000130BF272DC0>
+                     └ Handler.HandlerObj(handler=<function send_sticker_id at 0x00000130BF272DC0>, spec=FullArgSpec(args=['message'], varargs=None,...
+
+  File "D:\mySite\aiogramQiwi\handlers\client.py", line 23, in send_sticker_id
+    if not db.user_exists(message.from_user.id, message.from_user.username):
+           │  │           │       │             │       └ <aiogram.types.fields.Field object at 0x00000130BDC59670>
+           │  │           │       │             └ <Message {"message_id": 3622, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  │           │       └ <aiogram.types.fields.Field object at 0x00000130BDC59670>
+           │  │           └ <Message {"message_id": 3622, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  └ <function DataBase.user_exists at 0x00000130BECE0EE0>
+           └ <db.DataBase object at 0x00000130BF2746A0>
+
+  File "D:\mySite\aiogramQiwi\db.py", line 32, in user_exists
+    return bool(int(result[0][0]))
+                    └ <sqlite3.Cursor object at 0x00000130BF2651F0>
+
+TypeError: 'sqlite3.Cursor' object is not subscriptable
+2022-12-22T19:40:05.886824+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T19:45:40.523690+0300, ERROR, An error has been caught in function 'notify', process 'MainProcess' (2944), thread 'MainThread' (4856):
+Traceback (most recent call last):
+
+  File "D:\mySite\aiogramQiwi\main.py", line 17, in <module>
+    executor.start_polling(dp, skip_updates=True, )
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0000019450DAC6A0>
+    │        └ <function start_polling at 0x0000019450B95820>
+    └ <module 'aiogram.utils.executor' from 'C:\\Users\\User\\.virtualenvs\\aiogramQiwi-17PvAhBo\\lib\\site-packages\\aiogram\\util...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x0000019450B9F280>
+    └ <aiogram.utils.executor.Executor object at 0x0000019451360220>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x000001944EFBF550>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+
+  File "c:\python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x000001944EF02310>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x000001944EE92F70>
+    └ <Handle <TaskStepMethWrapper object at 0x0000019451382910>()>
+
+  File "c:\python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x0000019451382910>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x0000019451382910>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x0000019451382910>()>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 838184106, "message": {"message_id": 3629, "from": {"id": 1143605849, "is_bot": false, "first_name": "...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0000019450DAC6A0>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x000001944FE0E970>
+                 │    │                │      └ <Update {"update_id": 838184106, "message": {"message_id": 3629, "from": {"id": 1143605849, "is_bot": false, "first_name": "S...
+                 │    │                └ <function Handler.notify at 0x0000019450AE2E50>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x0000019450DC80A0>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0000019450DAC6A0>
+
+> File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Message {"message_id": 3629, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "us...
+                     │           └ <function send_sticker_id at 0x0000019451352C10>
+                     └ Handler.HandlerObj(handler=<function send_sticker_id at 0x0000019451352C10>, spec=FullArgSpec(args=['message'], varargs=None,...
+
+  File "D:\mySite\aiogramQiwi\handlers\client.py", line 23, in send_sticker_id
+    if not db.user_exists(user_id=message.from_user.id,user_name=message.from_user.username):
+           │  │                   │       │                      │       └ <aiogram.types.fields.Field object at 0x000001944FD28730>
+           │  │                   │       │                      └ <Message {"message_id": 3629, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  │                   │       └ <aiogram.types.fields.Field object at 0x000001944FD28730>
+           │  │                   └ <Message {"message_id": 3629, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  └ <function DataBase.user_exists at 0x0000019450DB0EE0>
+           └ <db.DataBase object at 0x0000019451344760>
+
+  File "D:\mySite\aiogramQiwi\db.py", line 32, in user_exists
+    return bool(len(result))
+                    └ <sqlite3.Cursor object at 0x00000194513351F0>
+
+TypeError: object of type 'sqlite3.Cursor' has no len()
+2022-12-22T19:46:20.030402+0300, ERROR, An error has been caught in function 'notify', process 'MainProcess' (2164), thread 'MainThread' (6140):
+Traceback (most recent call last):
+
+  File "D:\mySite\aiogramQiwi\main.py", line 17, in <module>
+    executor.start_polling(dp, skip_updates=True, )
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000002B0262DC6A0>
+    │        └ <function start_polling at 0x000002B0260D6820>
+    └ <module 'aiogram.utils.executor' from 'C:\\Users\\User\\.virtualenvs\\aiogramQiwi-17PvAhBo\\lib\\site-packages\\aiogram\\util...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x000002B0260DE280>
+    └ <aiogram.utils.executor.Executor object at 0x000002B026880220>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x000002B0244DF550>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+
+  File "c:\python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x000002B024422310>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x000002B0243B2F70>
+    └ <Handle <TaskStepMethWrapper object at 0x000002B0268A2910>()>
+
+  File "c:\python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x000002B0268A2910>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x000002B0268A2910>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x000002B0268A2910>()>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 838184107, "message": {"message_id": 3630, "from": {"id": 1143605849, "is_bot": false, "first_name": "...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000002B0262DC6A0>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x000002B02532E970>
+                 │    │                │      └ <Update {"update_id": 838184107, "message": {"message_id": 3630, "from": {"id": 1143605849, "is_bot": false, "first_name": "S...
+                 │    │                └ <function Handler.notify at 0x000002B026022E50>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x000002B0262F80A0>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x000002B0262DC6A0>
+
+> File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Message {"message_id": 3630, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "us...
+                     │           └ <function send_sticker_id at 0x000002B026872C10>
+                     └ Handler.HandlerObj(handler=<function send_sticker_id at 0x000002B026872C10>, spec=FullArgSpec(args=['message'], varargs=None,...
+
+  File "D:\mySite\aiogramQiwi\handlers\client.py", line 23, in send_sticker_id
+    if not db.user_exists(user_id=message.from_user.id,user_name=message.from_user.username):
+           │  │                   │       │                      │       └ <aiogram.types.fields.Field object at 0x000002B025249730>
+           │  │                   │       │                      └ <Message {"message_id": 3630, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  │                   │       └ <aiogram.types.fields.Field object at 0x000002B025249730>
+           │  │                   └ <Message {"message_id": 3630, "from": {"id": 1143605849, "is_bot": false, "first_name": "Sergei", "last_name": "Baluev", "use...
+           │  └ <function DataBase.user_exists at 0x000002B0262E1EE0>
+           └ <db.DataBase object at 0x000002B026864760>
+
+  File "D:\mySite\aiogramQiwi\db.py", line 32, in user_exists
+    return bool(len(result[0]))
+                    └ <sqlite3.Cursor object at 0x000002B0268551F0>
+
+TypeError: 'sqlite3.Cursor' object is not subscriptable
+2022-12-22T19:47:05.292822+0300, DEBUG, SergeiBaluev76, ввёл команду /start
+2022-12-22T19:47:49.898460+0300, DEBUG, SergeiBaluev76, нажал кнопку ПОПОЛНИТЬ БАЛАНС
+2022-12-22T19:47:55.281482+0300, DEBUG, SergeiBaluev76, ввёл сумму 10
+2022-12-22T19:47:59.837573+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T19:48:02.956706+0300, DEBUG, SergeiBaluev76, ввёл команду /start
+2022-12-22T19:52:22.857044+0300, DEBUG, SergeiBaluev76, ввёл команду /start
+2022-12-22T19:57:55.006817+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T20:00:34.702429+0300, DEBUG, SergeiBaluev76, ввёл команду /start
+2022-12-22T20:00:47.922155+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T20:00:52.071933+0300, INFO, Администратор SergeiBaluev76, нажал кнопку для изминения баланса
+2022-12-22T20:00:54.452904+0300, INFO, Администратор SergeiBaluev76, ввёл ник пользователя asd 
+2022-12-22T20:00:58.824543+0300, INFO, Администратор SergeiBaluev76, изменил у пользователя asd
+Сумма: 313131313 руб. 
+2022-12-22T20:09:42.596658+0300, DEBUG, SergeiBaluev76, нажал кнопку ПОПОЛНИТЬ БАЛАНС
+2022-12-22T20:09:46.747422+0300, INFO, SergeiBaluev76, некорректно ввёл сумму /start
+2022-12-22T20:09:54.272152+0300, INFO, SergeiBaluev76, ОТМЕНИЛ пополнение
+2022-12-22T20:17:01.426257+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T20:17:57.677117+0300, DEBUG, SergeiBaluev76, нажал кнопку ПОПОЛНИТЬ БАЛАНС
+2022-12-22T20:18:01.081119+0300, DEBUG, SergeiBaluev76, ввёл сумму 11
+2022-12-22T20:18:06.839694+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T20:18:32.652551+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T20:19:40.667781+0300, DEBUG, SergeiBaluev76, ввёл команду /start
+2022-12-22T20:20:31.141464+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T20:20:32.603304+0300, INFO, Администратор SergeiBaluev76, зашёл в выгрузку логов
+2022-12-22T20:20:34.216002+0300, INFO, Администратор SergeiBaluev76, выгрузил файл DEBUG логов
+2022-12-22T20:20:36.819108+0300, INFO, Администратор SergeiBaluev76, выгрузил файл WARNING логов
+2022-12-22T20:20:40.773423+0300, INFO, Администратор SergeiBaluev76, нажал кнопку ЗАБЛОКИРОВАТЬ ИЛИ РАЗБЛОКИРОВАТЬ пользователя
+2022-12-22T20:20:44.415914+0300, INFO, Администратор SergeiBaluev76, ПОЛЬЗОВАТЕЛЬ НАЙДЕНasd НАЙДЕН
+2022-12-22T20:20:48.137888+0300, INFO, Администратор SergeiBaluev76, ЗАБЛОКИРОВАЛ пользователя asd
+2022-12-22T20:20:58.926123+0300, INFO, Администратор SergeiBaluev76, зашёл в админу
+2022-12-22T20:21:00.227849+0300, INFO, Администратор SergeiBaluev76, нажал кнопку ЗАБЛОКИРОВАТЬ ИЛИ РАЗБЛОКИРОВАТЬ пользователя
+2022-12-22T20:21:01.878483+0300, INFO, Администратор SergeiBaluev76, ЗАБЛОКИРОВАННЫЙ asd НАЙДЕН
+2022-12-22T20:21:07.069831+0300, INFO, Администратор SergeiBaluev76, РАЗБЛОКИРОВАЛ пользователя asd

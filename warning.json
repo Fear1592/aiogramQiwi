@@ -1,0 +1,58 @@
+Warning JSON !2022-12-22T19:06:18.137463+0300, ERROR, An error has been caught in function 'notify', process 'MainProcess' (8748), thread 'MainThread' (3020):
+Traceback (most recent call last):
+
+  File "D:\mySite\aiogramQiwi\main.py", line 17, in <module>
+    executor.start_polling(dp, skip_updates=True, )
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x00000263B62AD280>
+    │        └ <function start_polling at 0x00000263B60B5820>
+    └ <module 'aiogram.utils.executor' from 'C:\\Users\\User\\.virtualenvs\\aiogramQiwi-17PvAhBo\\lib\\site-packages\\aiogram\\util...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x00000263B60BE280>
+    └ <aiogram.utils.executor.Executor object at 0x00000263B6860280>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\utils\executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x00000263B44BF550>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+
+  File "c:\python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x00000263B4402310>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+
+  File "c:\python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x00000263B4392F70>
+    └ <Handle <TaskStepMethWrapper object at 0x00000263B68B1220>()>
+
+  File "c:\python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x00000263B68B1220>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x00000263B68B1220>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x00000263B68B1220>()>
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 838184063, "message": {"message_id": 3572, "from": {"id": 1143605849, "is_bot": false, "first_name": "...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x00000263B62AD280>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x0...
+
+  File "C:\Users\User\.virtualenvs\aiogramQiwi-17PvAhBo\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x00000263B530E9D0>
+                 │    │                │      └ <Update {"update_id": 838184063, "message": {"message_id": 3572, "from": {"id": 1143605849, "is_bot": false, "first_name": "S...
+                 │    │                └ <function Handler.notify at 0x00000263B6003E50>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x00000263B62D80D0>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x00000263B62AD280>
+
+
+
